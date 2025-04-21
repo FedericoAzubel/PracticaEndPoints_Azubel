@@ -1,0 +1,15 @@
+{
+  "name": "practicaendpoints_azubel",
+  "version": "1.0.0",
+  "description": "Practica endpoints Azubel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Azubel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
